@@ -1,0 +1,28 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    }
+    body {
+    background:#ccc;
+    height:100%;
+    width:100%;
+    }
+    #main {
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    }
+    #view {  
+    border:none;
+    background:#fff;
+    height:100%;
+    width:45%;
+    margin:1%;
+    }
+    #result {
+    border:none;
+    background:#fff;
+    height:100%;
+    width:45%;
+    margin:1%;
+    }
